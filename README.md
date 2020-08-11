@@ -4,3 +4,10 @@ TUGAS.
 2.	Tugas 2 PWPB XII RPL SMK Merdeka
 3.	Pada readme.md tuliskan Nama lengkap dan NIS
 4.	Buatlah contoh baris kode untuk memisahkan kategori buah-buahan, dan simpan pada repositori yang sudah dibuat tadi.
+
+
+Nama : Junjun Padilah Firdaus
+
+NIS  : 181020307
+
+
